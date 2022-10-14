@@ -4,8 +4,7 @@ Click the images below to be linked to resources for each component.
 ## Showcase Video
 [![Youtube Link](https://img.youtube.com/vi/J1yxJr_xqg0/maxresdefault.jpg)](https://www.youtube.com/watch?v=J1yxJr_xqg0)
 
-## Originial Animatronic Eyes
-Created by Will Cogley, built as described
+## Original Animatronic Eyes
 [![Link to Cogley's Design](https://img.youtube.com/vi/Ftt9e8xnKE4/maxresdefault.jpg)](https://www.instructables.com/Simplified-3D-Printed-Animatronic-Dual-Eye-Mechani/)
 
 ## Wiring and Build Notes
