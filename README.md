@@ -2,7 +2,7 @@ This project extends Will Cogley's excellent 3D Printed animatronic eye with a s
 Click the images below to be linked to resources for each component.
 
 ## Showcase Video
-[![Youtube Link](https://img.youtube.com/vi/J1yxJr_xqg0/0.jpg)](https://www.youtube.com/watch?v=J1yxJr_xqg0)
+[![Youtube Link](https://img.youtube.com/vi/J1yxJr_xqg0/maxresdefault.jpg)](https://www.youtube.com/watch?v=J1yxJr_xqg0)
 
 ## Originial Animatronic Eyes
 Created by Will Cogley, built as described
