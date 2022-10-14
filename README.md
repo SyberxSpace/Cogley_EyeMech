@@ -1,4 +1,4 @@
-# This project extends Will Cogley's excellent 3D Printed animatronic eye with a slightly more public-friendly remote and some extra code for simple automatic movement.
+# This project extends Will Cogley's excellent 3D printed animatronic eye with a slightly more public-friendly remote and some extra code for simple automatic movement.
 Click the images below to be linked to resources for each component.
 
 ## Showcase Video
