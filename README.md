@@ -7,4 +7,7 @@ You can see it in action here:
 ## Wiring
 ![Wiring Diagram](Wiring%20Diagram.jpg)
 
+## Controller
+[![Link to Controller](https://media.printables.com/media/prints/295201/images/2590332_9bb9350d-d291-4360-98ad-59cf4fd4e387/thumbs/cover/640x480/jpg/pxl_20221013_200802915.webp)](https://www.printables.com/model/295201-animatronic-eye-controller-sized-for-general-publi)
+
 I'll be uploading CAD soon.
