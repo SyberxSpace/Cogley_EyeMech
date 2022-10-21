@@ -8,7 +8,7 @@ Click the images below to be linked to resources for each component.
 [![Link to Cogley's Design](https://img.youtube.com/vi/Ftt9e8xnKE4/maxresdefault.jpg)](https://www.instructables.com/Simplified-3D-Printed-Animatronic-Dual-Eye-Mechani/)
 
 ## Wiring and Build Notes
-[![Wiring Diagram](Wiring%20Diagram.jpg)](https://github.com/SyberxSpace/Cogley_EyeMech/blob/main/BuildNotes.md)
+[![Wiring Diagram](Eye%20Controller%20Schematic.svg)](https://github.com/SyberxSpace/Cogley_EyeMech/blob/main/BuildNotes.md)
 
 ## Controller
 [![Link to Controller](https://media.printables.com/media/prints/295201/images/2590332_9bb9350d-d291-4360-98ad-59cf4fd4e387/thumbs/inside/1920x1440/jpg/pxl_20221013_200802915.webp)](https://www.printables.com/model/295201-animatronic-eye-controller-sized-for-general-publi)
